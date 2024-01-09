@@ -3,7 +3,7 @@ import React from "react";
 const Search = () => {
   return (
     <>
-      <div className="flex justify-end pr-6 p-2">
+      <div className="flex justify-center lg:justify-end p-2">
         <div>
           <input
             type="text"
